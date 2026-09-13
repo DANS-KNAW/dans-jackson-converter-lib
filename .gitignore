@@ -1,0 +1,9 @@
+/.idea
+/target
+/*.iml
+/venv
+/site
+/data
+/.venv-mkdocs
+/*.releaseBackup
+/release.properties

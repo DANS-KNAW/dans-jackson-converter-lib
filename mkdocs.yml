@@ -14,21 +14,21 @@
 # limitations under the License.
 #
 
-site_name: dans-converter-lib
+site_name: dans-jackson-converter-lib
 theme:
   name: readthedocs
 
-repo_name: DANS-KNAW/dans-converter-lib
-repo_url: https://github.com/DANS-KNAW/dans-converter-lib
+repo_name: DANS-KNAW/dans-jackson-converter-lib
+repo_url: https://github.com/DANS-KNAW/dans-jackson-converter-lib
 
 nav:
   - Manual:
       - Description: index.md
       - Getting started: getting-started.md
-  - JavaDocs: api.md
+      - JavaDocs: api.md
+      - Context: context.md
   - Development:
       - Overview: dev.md
-  - Context: context.md
 
 plugins:
   - markdownextradata
