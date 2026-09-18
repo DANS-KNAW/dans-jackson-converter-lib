@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"nl.knaw.dans.convert.jackson","l":"StringByteSizeConverter"},{"p":"nl.knaw.dans.convert.jackson","l":"UriAddTrailingSlashConverter"}];updateSearchResults();
