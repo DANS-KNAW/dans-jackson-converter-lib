@@ -11,7 +11,7 @@ To use this library in a Maven project, add the following to your `pom.xml`:
 <dependency>
     <groupId>nl.datastations</groupId>
     <artifactId>dans-jackson-converter-lib</artifactId>
-    <version>{version}</version> <!-- <=== FILL LIBRARY VERSION TO USE HERE -->
+    <version>{{ project_version }}</version>
 </dependency>
 ```
 
