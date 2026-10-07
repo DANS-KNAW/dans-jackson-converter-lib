@@ -7,3 +7,4 @@
 /.venv-mkdocs
 /*.releaseBackup
 /release.properties
+/__pycache__*
